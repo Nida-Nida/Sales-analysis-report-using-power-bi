@@ -1,1 +1,21 @@
-
+Sales Analysis Report
+This project presents an interactive **Sales Analysis Report** built using **Power BI**. The report provides meaningful insights into key sales metrics to support data-driven decision making.
+Key Features:
+Total sales by **region**, **state**, and **product category**
+Monthly sales trends and seasonal patterns
+Top-performing sub-categories and regions
+Dynamic filters for **year**, **region**, and **customer segments**
+KPI cards highlighting **total sales**, **average sales per order**, and more
+Data Used:
+Sample sales dataset including fields such as:
+Order Date
+Sales Amount
+Product Category/Sub-category
+Region & State
+Customer Segment
+Tools & Technologies:
+Power BI Desktop** for dashboard development
+DAX** for calculated columns and measures
+Custom formatting and slicers for interactivity
+Purpose:
+To visualize and explore sales performance metrics that help businesses identify trends, opportunities, and areas for improvement.
